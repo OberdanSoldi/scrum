@@ -1,6 +1,6 @@
 # PLANO DE ESTUDOS - SCRUM
 ![GitHub repo size](https://img.shields.io/github/repo-size/OberdanSoldi/scrum)
-![ViewCount](https://views.whatilearened.today/views/github/OberdanSoldi/scrum)
+![ViewCount](https://views.whatilearened.today/views/github/OberdanSoldi/scrum.svg)
 
 ###### Por: [@OberdanSoldi](https://github.com/OberdanSoldi)
 
